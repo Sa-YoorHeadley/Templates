@@ -1,0 +1,18 @@
+1. Needs:
+    - README
+    - About
+    - License
+    - Issue template
+2. Remove things you aren't using
+3. Descriptions, links, topic (Insights ➝ Community)
+
+README:
+- Title eg. Golang REST API With Kubernetes Help Chart EXAMPLE Project 
+- Subtitle - Name and short one liner about what the project does
+- Intro Paragraph - Detailed description. embed keywords 
+- Screenshots/Video/Gif
+- User Instructions
+- Issues 
+- Quickstart
+- Prerequisites
+- 
